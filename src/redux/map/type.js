@@ -1,0 +1,4 @@
+export const FOCUS_PLACE = 'FOCUS_PLACE'
+export const CHANGE_MODE = 'CHANGE_MODE'
+export const MARK_BICYCLE_ROAD = 'MARK_BICYCLE_ROAD'
+export const OPEN_INFO = 'OPEN_INFO'
